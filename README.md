@@ -1,1 +1,6 @@
-# portfolio
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin [https://github.com/mattquiling/personal_webpage.git](https://github.com/mattquiling/portfolio)
+git push -u origin main
