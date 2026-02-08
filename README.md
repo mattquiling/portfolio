@@ -1,3 +1,4 @@
+# README.md for git initialization
 git init
 git add README.md
 git commit -m "first commit"
